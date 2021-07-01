@@ -1,0 +1,23 @@
+.display{
+  background-image: url(../img/00ccedf08bd9e477ec2419a97f8ce2d2.png);
+  height:500px;
+  width: 700px;
+  margin-left: 30%;
+}
+
+.info-panel{
+  font-size: 25px;
+  color:white;
+  text-align: center;
+}
+
+.color-container{
+  width:150px;
+  text-align: center;
+  border-radius: 5px;
+  display:inline-block;
+  font-size: 30px;
+  background-color: white;
+}
+
+
